@@ -1,0 +1,1 @@
+This project integrates machine learning and OpenAI's API to analyze and visualize cancer tumor data based on tumor site information. It focuses on preprocessing, encoding, and visualizing rare tumor sites using scikit-learn and matplotlib, with potential extensions for leveraging OpenAI models to assist in data interpretation.
