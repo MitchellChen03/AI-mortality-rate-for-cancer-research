@@ -131,8 +131,7 @@ print(f"F1 Score : {f1:.2f}")
 
 import openai
 
-openai.api_key = "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"
-
+openai.api_key = ""
 from sklearn.preprocessing import LabelEncoder
 
 features = ['Primary Site', 'Site recode - rare tumors']
